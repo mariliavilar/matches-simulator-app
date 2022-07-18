@@ -1,7 +1,7 @@
 package me.dio.simulator
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import me.dio.simulator.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -16,6 +16,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         // [VIEWBINDING] - 3. Acessar elementos XML através do binding
-        binding.tvHello.text = "Hello, Android!"
+        // binding.tvHello.text = "Hello, Android!"
     }
 }
