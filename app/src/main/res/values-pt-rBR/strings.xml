@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">Simulador</string>
     <string name="cd_fab_simulate_matches">Simular Partidas</string>
+    <string name="cd_iv_away_team_shield">Escudo do Time da Casa</string>
+    <string name="cd_iv_home_team_shield">Escudo do Time Visitante</string>
 </resources>
