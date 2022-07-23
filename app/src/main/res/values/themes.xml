@@ -18,4 +18,8 @@
         <item name="colorError">@color/error_red</item>
         <item name="colorOnError">@color/white</item>
     </style>
+
+    <style name="Theme.Simulator.MatchDetailScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+    </style>
 </resources>
