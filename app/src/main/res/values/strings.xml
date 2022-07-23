@@ -4,4 +4,5 @@
     <string name="txt_versus" translatable="false">X</string>
     <string name="cd_iv_away_team_shield">"Shield Away Team "</string>
     <string name="cd_iv_home_team_shield">Shield Home Team</string>
+    <string name="activity_detail_title">Match Detail</string>
 </resources>
