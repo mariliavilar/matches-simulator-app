@@ -2,4 +2,5 @@
 <resources>
     <dimen name="team_shield_size">120dp</dimen>
     <dimen name="margin_default">16dp</dimen>
+    <dimen name="app_bar_height">128dp</dimen>
 </resources>
